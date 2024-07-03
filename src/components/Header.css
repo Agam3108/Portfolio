@@ -1,0 +1,16 @@
+header {
+    background: #333;
+    color: white;
+    padding: 1rem 0;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  nav ul li a {
+    color: white;
+    text-decoration: none;
+  }
